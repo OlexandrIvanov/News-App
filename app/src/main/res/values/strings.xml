@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="facebook_app_id">1696930623730309</string>
+    <string name="facebook_login_protocol_scheme">1696930623730309</string>
+
+
+    <string name="toast_text">Added to favorites</string>
+    <string name="favorites_news">Favorites News</string>
+
+
+    <string name="dialog_title">Connection error!</string>
+    <string name="dialog_positive_button_text">Try again</string>
+    <string name="dialog_negative_button_text">Cancel</string>
+    <string name="toast_text_already_added">Already added</string>
+
+    <string-array
+        name="spinner_text">
+        <item>Top News</item>
+        <item>Sources</item>
+    </string-array>
+
+</resources>
